@@ -1,0 +1,16 @@
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\bin\Debug\net8.0-windows\MaqCalc2024_12_03.exe
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\bin\Debug\net8.0-windows\MaqCalc2024_12_03.deps.json
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\bin\Debug\net8.0-windows\MaqCalc2024_12_03.runtimeconfig.json
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\bin\Debug\net8.0-windows\MaqCalc2024_12_03.dll
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\bin\Debug\net8.0-windows\MaqCalc2024_12_03.pdb
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.Form1.resources
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.vbproj.GenerateResource.cache
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.AssemblyInfoInputs.cache
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.AssemblyInfo.vb
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.vbproj.CoreCompileInputs.cache
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.dll
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\refint\MaqCalc2024_12_03.dll
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.pdb
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\MaqCalc2024_12_03.genruntimeconfig.cache
+C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\obj\Debug\net8.0-windows\ref\MaqCalc2024_12_03.dll

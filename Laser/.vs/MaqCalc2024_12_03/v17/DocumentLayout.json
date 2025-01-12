@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaqCalc2024_12_03.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.Designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MaqCalc2024_12_03.vbproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaqCalc2024_12_03.vbproj",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj",
+              "RelativeDocumentMoniker": "MaqCalc2024_12_03.vbproj",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj",
+              "RelativeToolTip": "MaqCalc2024_12_03.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-12-18T17:35:04.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-18T17:34:59.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-18T17:34:52.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MaqCalc2024_12_03.vbproj.user",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj.user",
+              "RelativeDocumentMoniker": "MaqCalc2024_12_03.vbproj.user",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\MaqCalc2024_12_03.vbproj.user",
+              "RelativeToolTip": "MaqCalc2024_12_03.vbproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-12-18T17:34:34.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|c:\\users\\bia\\desktop\\bia\\bia\\desktop\\universidade\\5 ano\\cnc\\abilio\\maqcalc2024_12_03\\maqcalc2024_12_03\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|solutionrelative:maqcalc2024_12_03\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|c:\\users\\bia\\desktop\\bia\\bia\\desktop\\universidade\\5 ano\\cnc\\abilio\\maqcalc2024_12_03\\maqcalc2024_12_03\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|solutionrelative:maqcalc2024_12_03\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|c:\\users\\bia\\desktop\\bia\\bia\\desktop\\universidade\\5 ano\\cnc\\abilio\\maqcalc2024_12_03\\maqcalc2024_12_03\\laser.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A11509F-8B04-45ED-B5B1-C767EF26528D}|MaqCalc2024_12_03\\Laser.vbproj|solutionrelative:maqcalc2024_12_03\\laser.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laser.vbproj",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Laser.vbproj",
+              "RelativeDocumentMoniker": "MaqCalc2024_12_03\\Laser.vbproj",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Laser.vbproj",
+              "RelativeToolTip": "MaqCalc2024_12_03\\Laser.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-01-05T16:31:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb",
+              "RelativeDocumentMoniker": "MaqCalc2024_12_03\\Form1.vb",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb [Projeto]",
+              "RelativeToolTip": "MaqCalc2024_12_03\\Form1.vb [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-19T15:05:26.8Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb",
+              "RelativeDocumentMoniker": "MaqCalc2024_12_03\\Form1.vb",
+              "ToolTip": "C:\\Users\\Bia\\Desktop\\BIA\\Bia\\Desktop\\Universidade\\5 ano\\CNC\\Abilio\\MaqCalc2024_12_03\\MaqCalc2024_12_03\\Form1.vb",
+              "RelativeToolTip": "MaqCalc2024_12_03\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-19T15:00:17.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

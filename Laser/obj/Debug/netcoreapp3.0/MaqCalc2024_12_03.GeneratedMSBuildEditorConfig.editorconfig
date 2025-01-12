@@ -1,0 +1,14 @@
+is_global = true
+build_property.ApplicationManifest = 
+build_property.StartupObject = Sub Main
+build_property.ApplicationDefaultFont = 
+build_property.ApplicationHighDpiMode = 
+build_property.ApplicationUseCompatibleTextRendering = 
+build_property.ApplicationVisualStyles = 
+build_property.RootNamespace = MaqCalc2024_12_03
+build_property.ProjectDir = C:\Users\Bia\Desktop\BIA\Bia\Desktop\Universidade\5 ano\CNC\Abilio\MaqCalc2024_12_03\MaqCalc2024_12_03\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
